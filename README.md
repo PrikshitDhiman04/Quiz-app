@@ -1,4 +1,4 @@
-[script.js](https://github.com/user-attachments/files/24902188/script.js)[index5.html](https://github.com/user-attachments/files/24902180/index5.html) Quiz App
+Quiz App
 
 This is a basic **Quiz Application** made using HTML, CSS, and JavaScript.  
 The app shows multiple-choice questions and allows users to select answers and see their score at the end.
@@ -30,8 +30,7 @@ This project was created to practice JavaScript logic, events, and DOM manipulat
  Html ---
 [index5.html](https://github.com/user-attachments/files/24902181/index5.html)
 
-Js-- 
-[Uploading scri[index5.html](https://github.com/user-attachments/files/24902189/index5.html)pt.js…]()
+Js-- [script.js](https://github.com/user-attachments/files/24902188/script.js)[index5.html](https://github.com/user-attachments/files/24902180/index5.html) Quiz App
 
 Css-- 
 
