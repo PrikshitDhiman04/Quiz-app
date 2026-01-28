@@ -30,7 +30,7 @@ This project was created to practice JavaScript logic, events, and DOM manipulat
  Html ---
 [index5.html](https://github.com/user-attachments/files/24902181/index5.html)
 
-Js-- [script.js](https://github.com/user-attachments/files/24902188/script.js)[index5.html](https://github.com/user-attachments/files/24902180/index5.html) Quiz App
+Js-- [script.js](https://github.com/user-attachments/files/24902188/script.js)
 
 Css-- 
 
